@@ -191,13 +191,13 @@ p {
   @media screen and (max-width: 992px) {
     .search-engine-optimization {  
       float:none;
-      /* display: flex; */
+      
     
-      /* float: right; */
+      
       padding: auto;
       width:100%;
       margin: auto;
-      /* margin-right: 2px; */
+      
       background:#2a607c
     }
   }
@@ -205,13 +205,13 @@ p {
   @media screen and (max-width: 992px) {
     .online-reputation-management {  
       float:none;
-      /* display: flex; */
       
-      /* float: right; */
+      
+      
       padding: auto;
       width:100%;
       margin: auto;
-      /* margin-right: 2px; */
+      
       background:#2a607c
     }
   }
@@ -219,13 +219,18 @@ p {
   @media screen and (max-width: 992px) {
     .social-media-marketing  {  
       float:none;
-      /* display: flex; */
+     
       
-      /* float: right; */
+      
       padding: 10px;
       width:100%;
 
-      /* margin-right: 2px; */
+      
       background:#2a607c
+    } .content{
+        width:100%;
+        margin-left:0px;
     }
   }
+
+
